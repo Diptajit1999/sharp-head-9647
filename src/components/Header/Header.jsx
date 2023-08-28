@@ -10,7 +10,7 @@ const Header = () => {
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
                 <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae sapiente quibusdam consequatur perspiciatis facere laboriosam non nesciunt at id repudiandae, modi iste? Eligendi, rerum!</p>
+                <p className='header-text fs-18 fw-3'>Reality doesn’t always give us the life that we desire, but we can always find what we desire between the pages of books.</p>
                 <SearchForm />
             </div>
         </header>
